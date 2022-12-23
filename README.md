@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/venkataramangurudev/mylearningproj/_apis/build/status/venguru69.pipelines-dotnet-core%20(1)?branchName=master)](https://dev.azure.com/venkataramangurudev/mylearningproj/_build/latest?definitionId=2&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
